@@ -20,8 +20,13 @@ namespace NogEensVoorGit
 
             //5. Deze kan je dan commiten(via rechtermuis) of sync (via home)
 
+            //6. Wil je syncen met github zelf? Sync --> push bij outgoint commits
 
-            
+            //7. Create branch. Als je wilt weizigen
+
+            // DEZE COMMENT IS BIJ BRANCH01 gemaakt
+
+            //8.Changes --> zet een berich
 
         }
     }
