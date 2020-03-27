@@ -13,7 +13,10 @@ namespace NogEensVoorGit
             // Een project moet je eerst in de Local repository bewaren.
             // git is gemaakt door de linux-creator
 
-            //1. Ass to source control
+            //1. Add to source control
+            //2. Wij zijn niet geïnteresseerd in azure (de oude TFS)
+            //3. Alles met een slot wordt gemonitord door GIT
+
 
 
         }
